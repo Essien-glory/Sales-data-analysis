@@ -1,5 +1,5 @@
 # Sales-data-analysis
-This report shows the sales trends for various products in nine cities in the year 2019.
+This Project shows the sales trends for various products in nine cities in the year 2019.
 
 The Purpose of this project is to Analyze sales data to identify trends, top-selling products, and revenue metrics for
 business decision-making.
@@ -10,12 +10,14 @@ business decision-making.
 3. Use appropriate data types(Select the detect data type option in Transform tab)
 4. Split the Order date column to date and time stamp(Using the Split to Column option, Split by delimeter)
 5. Close & Apply.
+
    
-![Screenshot 2024-07-29 105043](https://github.com/user-attachments/assets/e64f1d2e-e453-4f5e-8c41-b0d29e816de8)
+![Screenshot 2024-07-29 105043](https://github.com/user-attachments/assets/a77e5513-3472-4777-823a-940e36346fcd)
 
-![Screenshot 2024-07-29 105946](https://github.com/user-attachments/assets/d11f248c-279e-4868-a3cc-05fa33b6ed50)
+![Screenshot 2024-07-29 105946](https://github.com/user-attachments/assets/0b58b967-3280-4274-95d5-88aabaea96ca)
 
-**Analysis**
+
+****Analysis********
 The table consists of these columns
 1. Order Id
 2. Product
@@ -53,7 +55,7 @@ In analyzing the sales data, we have 9 cities, 19 products, and 1 year (2019).
 Total sales amounted to $34,483,365.68.
 Total quantity ordered was 209,038.
 
-Key metrics: sales and quantity ordered.
+**Key metrics: ** sales and quantity ordered.
 
 1. The first chart shows the sales trend and quantity ordered per month. This reveals that December had the highest sales.
 2. Chart 2 shows the top 10 products with the highest sales (MacBook Pro sells the most, followed by iPhone).
@@ -68,7 +70,6 @@ Key metrics: sales and quantity ordered.
 
 
 
-
-
 Filters were applied to limit search by year, month, and city. It is highly interactive.
 
+View interactive Dashboard in the attached File.
