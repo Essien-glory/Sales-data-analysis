@@ -1,10 +1,15 @@
-# Sales-data-analysis
+# Sales-Data-Analysis
 This Project shows the sales trends for various products in nine cities in the year 2019.
 
 The Purpose of this project is to Analyze sales data to identify trends, top-selling products, and revenue metrics for
 business decision-making.
 
+Tool Used: PowerBI
+
+
 **Data Cleaning Process**
+Power Query was used to Perform the cleaning process
+
 1. Make the first row as headers.
 2. Remove irrelevant column.
 3. Use appropriate data types(Select the detect data type option in Transform tab)
@@ -17,7 +22,7 @@ business decision-making.
 ![Screenshot 2024-07-29 105946](https://github.com/user-attachments/assets/0b58b967-3280-4274-95d5-88aabaea96ca)
 
 
-****Analysis********
+**Analysis**
 The table consists of these columns
 1. Order Id
 2. Product
@@ -55,7 +60,7 @@ In analyzing the sales data, we have 9 cities, 19 products, and 1 year (2019).
 Total sales amounted to $34,483,365.68.
 Total quantity ordered was 209,038.
 
-**Key metrics: ** sales and quantity ordered.
+**Key metrics:** sales and quantity ordered.
 
 1. The first chart shows the sales trend and quantity ordered per month. This reveals that December had the highest sales.
 2. Chart 2 shows the top 10 products with the highest sales (MacBook Pro sells the most, followed by iPhone).
@@ -70,6 +75,6 @@ Total quantity ordered was 209,038.
 
 
 
-Filters were applied to limit search by year, month, and city. It is highly interactive.
+Filters were applied to limit search by year, month, and city.
 
 View interactive Dashboard in the attached File.
