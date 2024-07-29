@@ -8,6 +8,7 @@ Tool Used: PowerBI
 
 
 **Data Cleaning Process**
+
 Power Query was used to Perform the cleaning process
 
 1. Make the first row as headers.
