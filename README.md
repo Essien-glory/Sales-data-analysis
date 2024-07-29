@@ -72,7 +72,7 @@ Total quantity ordered was 209,038.
 
 **Suggestion**
 1. smaller Quantities should be ordered in months where the sales are low(months like January,February & September)
-2. For Months with high sales like December which is the festive period people tend to order more thereby increasing sales, we suggest stocking up on more products. Products with high sales(eg Mac Book Pro)
+2. For Months with high sales like December which is the festive period people tend to order more thereby increasing sales, I suggest stocking up on more products. Products with high sales(eg Mac Book Pro)
 
 
 
