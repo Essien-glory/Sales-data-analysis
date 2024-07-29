@@ -71,7 +71,8 @@ Total quantity ordered was 209,038.
 6. Additionally, a map was used to show the locations in the United States with the highest sales. The bubble represents the sales (the bigger the bubble, the higher the sales).
 
 **Suggestion**
-1. smaller Quantities should be ordered in months where the sales are low(months like January,February & September)
+1. smaller Quantities should be ordered in months where the sales are low(months like January,February & September) ![Screenshot 2024-07-29 131748](https://github.com/user-attachments/assets/01c32271-5f62-42b9-852e-2fa8a6934223)
+
 2. For Months with high sales like December which is the festive period people tend to order more thereby increasing sales, I suggest stocking up on more products. Products with high sales(eg Mac Book Pro)
 
 
